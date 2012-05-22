@@ -1,6 +1,6 @@
 class HelloWorld
   def hello (name)
-    print 'hello %{name}'
+    puts 'hello #{name}'
   end
 end
 
