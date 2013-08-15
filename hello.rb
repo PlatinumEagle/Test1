@@ -4,5 +4,5 @@ class HelloWorld
   end
 end
 
-hw = new HelloWorld
-hw.hello('Rob')
+hw = new HelloWorld;
+hw.hello('Rob');
